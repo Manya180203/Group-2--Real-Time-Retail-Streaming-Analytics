@@ -1,0 +1,26 @@
+product_id,product_name,category,unit_price
+P1001,Wireless Earbuds,Electronics,2499
+P1002,Smartwatch,Electronics,3999
+P1003,Bluetooth Speaker,Electronics,2999
+P1004,Power Bank,Electronics,1499
+P1005,USB-C Charger,Electronics,999
+P1006,Air Fryer,Home,5499
+P1007,Mixer Grinder,Home,4499
+P1008,Electric Kettle,Home,1799
+P1009,Vacuum Cleaner,Home,6999
+P1010,Storage Organizer,Home,899
+P1011,Running Shoes,Fashion,3299
+P1012,Casual Shirt,Fashion,1499
+P1013,Denim Jeans,Fashion,2299
+P1014,Backpack,Fashion,1999
+P1015,Sports T-Shirt,Fashion,999
+P1016,Face Serum,Beauty,899
+P1017,Sunscreen,Beauty,699
+P1018,Shampoo,Beauty,599
+P1019,Body Lotion,Beauty,549
+P1020,Hair Dryer,Beauty,2499
+P1021,Coffee,Grocery,449
+P1022,Green Tea,Grocery,349
+P1023,Breakfast Cereal,Grocery,399
+P1024,Olive Oil,Grocery,799
+P1025,Protein Bars,Grocery,599

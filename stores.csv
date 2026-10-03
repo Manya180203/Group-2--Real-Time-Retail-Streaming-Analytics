@@ -1,0 +1,13 @@
+store_id,store_name,city,region,store_type
+S001,Store 01,Delhi,North,Express
+S002,Store 02,Chennai,South,Flagship
+S003,Store 03,Kolkata,East,Flagship
+S004,Store 04,Pune,West,Express
+S005,Store 05,Indore,Central,Standard
+S006,Store 06,Jaipur,North,Flagship
+S007,Store 07,Bengaluru,South,Flagship
+S008,Store 08,Bhubaneswar,East,Flagship
+S009,Store 09,Mumbai,West,Express
+S010,Store 10,Nagpur,Central,Flagship
+S011,Store 11,Delhi,North,Express
+S012,Store 12,Chennai,South,Express
