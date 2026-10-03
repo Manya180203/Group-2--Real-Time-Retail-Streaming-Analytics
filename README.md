@@ -208,71 +208,7 @@ Create dashboard variables for:
 - Category
 - Sales Channel
 
-The SQL queries are in:
-
-```text
-sql/grafana_queries.sql
-```
-
-## 12. Recommended 20 Charts
-
-1. Total Revenue
-2. Total Orders
-3. Average Order Value
-4. Units Sold
-5. Revenue by Region
-6. Revenue by Product Category
-7. Revenue by Store
-8. Sales Channel Mix
-9. Order Status Distribution
-10. Revenue Over Streaming Time
-11. Orders Over Streaming Time
-12. Top 10 Products by Revenue
-13. Revenue by Customer Segment
-14. Payment Method Mix
-15. Inventory Status
-16. Low / Out-of-Stock Products
-17. Average Stock by Store
-18. Customer Activity by Type
-19. Device Usage
-20. Return Reasons / Refund Value
-
-Bonus:
-- Return Rate by Category
-- Alerts by Type
-- Latest Alerts table
-
-## 13. Real-Time Alerts
-
-The consumer generates three types of alerts:
-
-### High-value order
-
-```text
-order_value >= ₹10,000
-```
-
-### Low inventory
-
-```text
-stock_after <= reorder_level
-```
-
-### High refund
-
-```text
-refund_amount >= ₹5,000
-```
-
-All alerts are stored in:
-
-```text
-retail_alerts
-```
-
-This makes the project more than a static dashboard: it demonstrates ingestion, stream processing, persistence, monitoring and operational alerts.
-
-## 14. Business Questions
+## 12. Business Questions
 
 The dashboard can answer:
 
@@ -290,7 +226,7 @@ The dashboard can answer:
 - Are high-value orders appearing during the live stream?
 - Where are inventory alerts concentrated?
 
-## 15. Important Submission Point
+## 13. Important Submission Point
 
 The project is not simply:
 
